@@ -1,0 +1,67 @@
+.nombres-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
+  }
+
+h1, h2, h3, p {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #a58a1d;
+}
+
+h2 {
+    color: #D4BBA0;
+}
+
+h3 {
+    color: #B03D26;
+    font-size: 35px;
+}
+
+p {
+    color: #ce9a24;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.mdj1 {
+    padding: 35px;
+}
+
+.mdj2 {
+    padding: 25px;
+}
+
+.img2 {
+    width: 100%;
+    height: auto;
+
+}
+
+.t1 {
+    margin: 25px;
+}
+
+html {
+    background-image: url(https://i.pinimg.com/originals/d2/24/ae/d224ae16dff265042c8b7978f625f214.jpg);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    max-width: fit-content;
+  }
+
